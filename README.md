@@ -1,6 +1,6 @@
 Software Automation Engineer / Software Developer <br >
-### skills:
-| Development Type | Technology/Language     |
+
+| Category         | Technology/Language     |
 | :--:             | :--:                    |
 | Front end        |  JavaScript, html & CSS |
 | Back end         |  PHP, Java(SpringBoot)  |
