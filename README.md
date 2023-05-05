@@ -1,4 +1,4 @@
-Software Automation Engineer / Software Developer <br >
+Test Automation Engineer / Software Developer <br >
 
 | Category         | Technology/Language     |
 | :--:             | :--:                    |
